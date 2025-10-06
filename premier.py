@@ -1,3 +1,5 @@
+
+
 n=int(input("entrer un nombre:"))
 premier=True
 for diviseur in range (2,n):
@@ -7,6 +9,5 @@ for diviseur in range (2,n):
         premier=False
         
 print(n,"est premier !")
-
 
 #YO
